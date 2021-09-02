@@ -228,7 +228,7 @@ button {
 .download-btn {
     display: inline-block;
     height: 70px;
-    border-radius: 35px;
+    border-radius: 16px;
     background: #d1d1d1;
     overflow: hidden;
     text-align: left;
@@ -240,7 +240,7 @@ button {
     height: 64px;
     background-color: #fff;
     color: #00aeff;
-    border-radius: 32px;
+    border-radius: 16px;
     padding: 12px 25px 0 70px;
     font-size: 12px;
     line-height: 18px;
@@ -1679,7 +1679,7 @@ aside.blog-sidebar .tag_cloud h4 {
 }
 
 .intro-block .block-bg {
-    background-image: url(../images/intro_bg.jpg);
+    background-image: url(../images/security-guards.jpg);
     opacity: 0.4;
 }
 
